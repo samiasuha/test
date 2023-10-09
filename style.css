@@ -1,0 +1,29 @@
+.footer{
+
+    background-color: gray;
+    
+    }
+    .main-footer h4{
+    
+    color: black;
+    padding-bottom: 15px;
+    }
+    .main-footer ul{
+           list-style-type: none;
+           margin: 0;
+           padding: 0;
+       }
+       .main-footer ul li{
+           line-height: 30px;
+           color: black;
+       }
+       
+       .main-footer ul li a{
+           text-decoration: none;
+           color:black;
+       }
+       .main-footer ul li a:hover{
+           padding-left: 8px;
+           transition: .6s;
+       }
+     
